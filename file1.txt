@@ -1,0 +1,3 @@
+touch filename to create file
+git status 
+red means unstatus file
